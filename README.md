@@ -1,4 +1,4 @@
-# Virtual Tourist
+# Hello World (World Edition)
 
 This is a starter project for Hello World (World Edition) which allows users to tap on a button and the app shows random greeting messages from all over the world!
 
