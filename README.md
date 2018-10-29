@@ -17,8 +17,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Tim Ng** - [Timothy Ng](https://github.com/ncytimothy)
-* **Learn Swift HK** - [Timothy Ng](https://learnswifthk.com)
+* **Tim Ng** - [Tim Ng](https://github.com/ncytimothy)
+* **Learn Swift HK** - [Learn Swift HK](https://learnswifthk.com)
 
 ## License
 
